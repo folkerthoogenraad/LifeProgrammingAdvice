@@ -1,0 +1,11 @@
+h1{
+   font-size:80px;
+   letter-spacing: 1px;
+
+   @include media-laptop(){
+      font-size:60px;
+   }
+   @include media-mobile(){
+      font-size:30px;
+   }
+}
