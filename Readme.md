@@ -1,10 +1,10 @@
-# Webpack SCSS Template
-This is a standard (empty) template for using webpack (with live reload) with babel-loader and SASS loader.
+# LifeProgrammingAdvice
+Why are you even reading this readme. Just read the quotes. They help you in life.
 
 ## Installing
 ```
-git clone https://github.com/folkerthoogenraad/WebpackSCSSTemplate.git [YourProjectName]
-cd [YourProjectName]
+git clone <whatever this url is going to be>
+cd LifeProgrammingAdvice
 npm install
 ```
 
